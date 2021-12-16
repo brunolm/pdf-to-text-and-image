@@ -1,0 +1,27 @@
+{
+  "name": "pdf-to-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.0",
+    "@types/pdf-image": "^2.0.1",
+    "canvas": "^2.8.0",
+    "jimp": "^0.16.1",
+    "pdf-image": "^2.0.0",
+    "pdf-images": "^1.0.2",
+    "pdf-to-base64": "^1.0.3",
+    "pdf2pic": "^2.1.4",
+    "pdfjs": "^2.4.7",
+    "pdfjs-dist": "^2.10.377",
+    "pdftoimage": "^1.0.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
